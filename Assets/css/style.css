@@ -76,30 +76,30 @@ h1 {
 }
 
 /* Style the form text boxes */
-.input-text {
+/* .input-text {
     width: 100%;
     padding: 2px;
     box-sizing: border-box;
     margin: 8px 0px;
-}
+} */
 
-#input-message {
+/* #input-message {
     width: 100%;
     box-sizing: border-box;
-}
+} */
 
 /* Style the submit button */
-#input-submit {
+/* #input-submit {
     background-color: #4aaaa5;
     color: white;
     padding: 5px 15px;
     margin: 10px 0px;
     display: block;
-}
+} */
 
-#input-submit:hover {
+/* #input-submit:hover {
     background-color: #08a8a0;
-}
+} */
 
 /* Style photos in Portfolio */
 /* .column {
