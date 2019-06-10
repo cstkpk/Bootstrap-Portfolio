@@ -70,26 +70,6 @@ h1 {
     background-color: #088b85;
 }
 
-/* Style photos in Portfolio */
-/* .column {
-    float: left;
-    width: 30%;
-    padding: 5px;
-    margin: 10px;
-} */
-  
-/* Clear floats after image containers */
-/* .row::after {
-    content: "";
-    clear: both;
-    display: table;
-} */
-
-/* Container holding the image and text for all images */
-/* .img-1, .img-2, .img-3, .img-4, .img-5 {
-    position: relative;
-} */
-
 /* Text block for all images */
 .text-block {
     position: absolute;
@@ -99,9 +79,7 @@ h1 {
     background-color: #4aaaa5;
     text-align: center;
     color: white;
-    padding: 10px 20px;
-    /* padding-left: 20px;
-    padding-right: 20px; */
+    padding: 20px 20px 10px 20px;
 }
 
 /* Add shadow to images on hover */
