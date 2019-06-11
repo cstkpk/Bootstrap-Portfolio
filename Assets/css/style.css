@@ -2,9 +2,9 @@
 body {
     margin: auto;
     background-image: url(beige_paper.png);
-    color: #777; /* Why is this being overwritten? Bootstrap? */
-    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif; /* Why is this being overwritten? Bootstrap? */
-    line-height: 1.5; /* Why is this being overwritten? Bootstrap? */
+    color: #777; 
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif; 
+    line-height: 1.5; 
 }
 
 /* Format the navigation bar */
