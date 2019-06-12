@@ -43,7 +43,7 @@ body {
 /* Style the main content container */
 .main-content {
     background-color: white;
-    padding: 10px 20px;
+    padding: 30px 20px;
 }
 
 /* Style h1 text */
@@ -82,6 +82,10 @@ h1 {
     padding: 20px 20px 10px 20px;
 }
 
+.img-1, .img-2, .img-3, .img-4, .img-5 {
+    margin-top: 15px;
+}
+
 /* Add shadow to images on hover */
 .img-1:hover, .img-2:hover, .img-3:hover, .img-4:hover, .img-5:hover {
     filter: drop-shadow(8px 8px 10px gray);
@@ -104,4 +108,14 @@ h1 {
 /* Create space so the footer doesn't overlap the main content */
 .push {
     height: 100px;
+}
+
+/* Media tag for phone */
+@media screen and (max-width: 640px) {
+#logo {
+    width: 640px;
+    text-align: center;
+    margin: 5px auto;
+}
+
 }
