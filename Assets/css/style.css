@@ -110,6 +110,13 @@ h1 {
     height: 100px;
 }
 
+/* Media tag for tablet */
+@media screen and (max-width: 768px) {
+.img-about {
+    width: 50%;
+}
+}
+
 /* Media tag for phone */
 @media screen and (max-width: 640px) {
 #logo {
@@ -118,4 +125,12 @@ h1 {
     margin: 5px auto;
 }
 
+.img-about {
+    width: 99%;
+    float: none;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
 }
